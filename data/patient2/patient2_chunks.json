@@ -1,0 +1,253 @@
+{
+  "demographics": {
+    "name": "The name of the patient is Jane Donald",
+    "date_of_birth": "1987-09-04",
+    "sex": "Female",
+    "age": 37,
+    "race": "White",
+    "ethnicity": "White",
+    "height": "5\u20195\u201d",
+    "weight": "140 lbs",
+    "religion": "Catholic",
+    "language": "English"
+  },
+  "social_background": {
+    "occupation": "8th-grade English teacher",
+    "family_income": 300000,
+    "household": "Lives with husband and two children (ages 7 and 10)",
+    "substance_use": "No alcohol, drug use, or smoking",
+    "exercise": "Goes to gym and walks daily",
+    "health_perception": "Believes she\u2019s relatively healthy, frustrated with allergies, actively attends appointments, prepares healthy meals for family",
+    "value_belief": "Catholic, attends church every Sunday"
+  },
+  "family_history": {
+    "mother": "Alive, 70, HTN, HLD, asthma",
+    "father": "Alive, 74, HTN, HLD"
+  },
+  "medical_history": {
+    "asthma": "Well-controlled",
+    "anaphylaxis": "Severe allergy to peanuts and tree nuts",
+    "allergies": [
+      "peanuts",
+      "tree nuts",
+      "kiwis"
+    ]
+  },
+  "mental_health": {
+    "coping": "Relies on husband and mother for stress",
+    "activities": "Uses gym and daily walks for stress relief"
+  },
+  "functional_status": {
+    "pre_admission": "Independent, managed household and childcare, worked full-time",
+    "current": {
+      "activity_level": "Bedfast",
+      "mobility": "Very limited \u2014 needs 2 staff for mobility",
+      "sensory_perception": "No impairment \u2014 responds to verbal commands and discomfort",
+      "communication": "Via whiteboard and text",
+      "friction_shear": "Potential issue \u2014 occasional sliding in bed"
+    },
+    "physician_orders_activity": "Activity as tolerated"
+  },
+  "appointments_and_support": {
+    "attending_provider": "Dr. Alkim Kurt",
+    "support_system": [
+      "Husband (Andrew)",
+      "Mother (Kelly)"
+    ]
+  },
+  "surgical_history": {
+    "history": "No prior surgeries"
+  },
+  "er_admission": {
+    "incident": "Anaphylaxis after restaurant meal",
+    "ems": "2 EpiPens used, wheezing, stridor, alert",
+    "ed": "Intubated, ventilated, epinephrine gtt, steroids",
+    "icu_status": {
+      "nutrition": "OG tube",
+      "sedation": "Light",
+      "extubation_plan": "SBT trial passed, plan to extubate in a few days",
+      "steroids": "Steroid taper ongoing",
+      "injury": "Oral pressure ulcer (upper left lip)"
+    },
+    "vitals": {
+      "temperature": "98.5\u00b0F",
+      "bp": "130/60",
+      "heart_rate": 78,
+      "o2_saturation": "98%",
+      "tidal_volume": "3500",
+      "respiratory_rate": 16,
+      "fio2": "30%"
+    }
+  },
+  "labs_and_vitals": {
+    "vitals": {
+      "temperature": "98.5\u00b0F",
+      "bp": "130/60",
+      "heart_rate": 78,
+      "o2_saturation": "98%",
+      "tidal_volume": "3500",
+      "respiratory_rate": 16,
+      "fio2": "30%"
+    },
+    "lab_results": {
+      "cbc": [
+        {
+          "test": "White Blood Cells",
+          "result": 5000,
+          "range": "4,100\u201310,900",
+          "status": "Normal"
+        },
+        {
+          "test": "Hemoglobin",
+          "result": 12.3,
+          "range": "12\u201315.2",
+          "status": "Normal"
+        },
+        {
+          "test": "Hematocrit",
+          "result": 37,
+          "range": "37\u201346",
+          "status": "Normal"
+        }
+      ],
+      "chemistries": [
+        {
+          "test": "Sodium",
+          "result": 144,
+          "range": "135\u2013145",
+          "status": "Normal"
+        },
+        {
+          "test": "Potassium",
+          "result": 4.6,
+          "range": "3.5\u20134.5",
+          "status": "Slightly High"
+        },
+        {
+          "test": "Glucose",
+          "result": 99,
+          "range": "90\u2013110",
+          "status": "Normal"
+        }
+      ],
+      "urinalysis": [
+        {
+          "test": "Urine Color",
+          "result": "Clear yellow",
+          "range": "Clear, yellow",
+          "status": "Normal"
+        },
+        {
+          "test": "Specific Gravity",
+          "result": 1.006,
+          "range": "1.005\u20131.035",
+          "status": "Normal"
+        },
+        {
+          "test": "pH",
+          "result": 5,
+          "range": "4.5\u20138.0",
+          "status": "Normal"
+        },
+        {
+          "test": "Red Blood Cells",
+          "result": "None",
+          "range": "0\u20132/HPF",
+          "status": "Normal"
+        },
+        {
+          "test": "White Blood Cells",
+          "result": 0,
+          "range": "0\u20135/HPF",
+          "status": "Normal"
+        }
+      ],
+      "urine_culture": {
+        "result": "Negative",
+        "range": "Negative",
+        "status": "Normal"
+      }
+    }
+  },
+  "medications_and_treatment": {
+    "home_medications": [
+      "EpiPen",
+      "Albuterol PRN",
+      "MiraLAX PRN"
+    ],
+    "inpatient_medications": [
+      "Methylprednisolone 60 mg IV q8h",
+      "Dexmedetomidine 0.2\u20131 mg/hr",
+      "Pantoprazole 40 mg IV daily",
+      "Albuterol nebulizer Q4H PRN",
+      "Acetaminophen 650 mg PO q6h PRN",
+      "Senna 100 mg PO BID",
+      "ProSource 30 mL packet BID",
+      "Juven 1 packet PO BID",
+      "Vitamin C 500 mg PO daily",
+      "Zinc 50 mg PO daily",
+      "Multivitamin 1 tab PO daily"
+    ]
+  },
+  "nutrition_and_gi": {
+    "method": "OG tube feed",
+    "formula": "Jevity 1.5 @ 45 mL/hr",
+    "supplements": [
+      "ProSource",
+      "Juven",
+      "Multivitamin",
+      "Vitamin C",
+      "Zinc"
+    ],
+    "free_water_flush": "300 mL TID",
+    "assessment": {
+      "abdomen": "Flat, non-distended",
+      "bowel_sounds": "Present in all quadrants",
+      "tenderness": "None",
+      "bloating": "Resolved"
+    },
+    "intake_status": "Adequate"
+  },
+  "urinary_and_bowel": {
+    "urinary": {
+      "device": "Foley catheter",
+      "output": "Clear yellow, no odor",
+      "discomfort": "None"
+    },
+    "bowel": {
+      "regimen": "Yes",
+      "status": "Daily bowel movements \u2014 soft, creamy, brown",
+      "home_med": "MiraLAX PRN"
+    }
+  },
+  "sensory_and_sleep": {
+    "vision": "No complaints, +PERLA",
+    "hearing": "No complaints",
+    "sleep": "Interrupted sleep due to ICU noise and care interruptions"
+  },
+  "wound_and_skin": {
+    "pressure_injury": "Oral ulcer left upper lip from prolonged intubation",
+    "braden_scale": {
+      "sensory_perception": "4 - No impairment",
+      "moisture": "4 - Rarely moist",
+      "activity": "1 - Bedfast",
+      "mobility": "2 - Very limited",
+      "nutrition": "3 - Adequate",
+      "friction_shear": "2 - Potential problem"
+    },
+    "prevention": {
+      "device_safety": "Ensure device not in direct contact with skin",
+      "et_injury_prevention": "Collaborate with RT to correctly place tube holders",
+      "turning_frequency": "Every 2 hours",
+      "et_rotation": "Every 4 hours",
+      "supplements_for_wounds": [
+        "Vitamin C",
+        "Multivitamin",
+        "Zinc",
+        "Collagen",
+        "ProSource"
+      ],
+      "wound_consult": "Yes \u2014 consult wound care team for hospital-acquired PIs"
+    }
+  }
+}

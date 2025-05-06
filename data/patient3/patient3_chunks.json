@@ -1,0 +1,196 @@
+{
+  "demographics": {
+    "name": "The name of the patient is Michael Smith",
+    "sex": "Male",
+    "date_of_birth": "1992-07-16",
+    "age": 32,
+    "race": "White",
+    "ethnicity": "European",
+    "height": "70 inches",
+    "weight": "162 lbs",
+    "religion": "Non Denominational",
+    "language": "English",
+    "attending_provider": "Dr. Carl Halneck"
+  },
+  "social_background": {
+    "major_support": "Lives with Mom (Cheryl), also his HCP and caretaker",
+    "education": "Completed high school, no college",
+    "work_history": "Former line cook at a restaurant; currently unemployed",
+    "income": "On disability, receives $13,000/year from social security",
+    "support_phone": "Cheryl (Mom) \u2013 234-567-8900",
+    "beliefs": "Believes in God but does not actively practice or think about it much"
+  },
+  "family_history": {
+    "mother": "Alive, 61 years old, has T2DM, HTN, HLP",
+    "father": "Deceased in 2018, liver failure, alcohol abuse, HTN",
+    "sister": "Alive, 32 years old, healthy"
+  },
+  "medical_history": {
+    "conditions": [
+      "Substance misuse (alcohol, marijuana, cocaine \u2013 all ceased in 2019)",
+      "Motor vehicle accident in Dec 2019 \u2192 C4 complete fracture \u2192 quadriplegia",
+      "Neurogenic bladder (chronic indwelling urinary catheter)",
+      "Autonomic dysreflexia",
+      "Chronic stage 3 (now stage 4) coccyx pressure injury"
+    ],
+    "immunizations": "Up to date",
+    "health_perception": "Patient perceives health as mediocre; admits neglect with diet and movement; sees PCP 2x/year"
+  },
+  "mental_health": {
+    "depression": "Ongoing; expresses guilt and frustration over dependency",
+    "self_concept": "Poor; working with CBT",
+    "therapy": "Sees therapist weekly",
+    "medications": [
+      "Sertraline 50mg daily"
+    ],
+    "substance_recovery": "Clean since 2019 from alcohol, marijuana, cocaine",
+    "coping": "Struggles but actively engaged in therapy"
+  },
+  "functional_status": {
+    "mobility": "Quadriplegic with spasticity in all limbs; uses electric wheelchair with sip-and-puff joystick",
+    "feeding": "Requires full assistance",
+    "dependence": "Dependent on mother and PCAs",
+    "relationship_status": "Good with mother; working on sister relationship",
+    "activity_order": "OOB with Hoyer to WC three times daily for meals as tolerated",
+    "repositioning": "Bedfast, cannot reposition self; frequent sliding due to spasticity"
+  },
+  "appointments_and_support": {
+    "accompanied_to_ed": "Mother (Cheryl)",
+    "external_support": "PCAs visit at home"
+  },
+  "surgical_history": {
+    "surgeries": [
+      "C4-C5 anterior cervical discectomy and fusion (2019)",
+      "Coccyx wound debridement (2023)"
+    ]
+  },
+  "er_admission": {
+    "reason": "Fever and worsening stage 4 coccyx wound",
+    "vitals": {
+      "temperature": "102.8\u00b0F",
+      "hr": 112,
+      "bp": "89/60",
+      "rr": 20,
+      "spo2": "97%"
+    },
+    "symptoms": "Foul drainage, pressure sensation, no pain",
+    "diagnosis": "Sepsis and osteomyelitis",
+    "antibiotics": [
+      "Vancomycin 1g IV daily",
+      "Piperacillin/Tazobactam 3.375g IV q6h"
+    ]
+  },
+  "labs_and_vitals": {
+    "vitals": {
+      "temperature": "102.8\u00b0F",
+      "hr": 112,
+      "bp": "89/60",
+      "rr": 20,
+      "spo2": "97%"
+    },
+    "cbc": {
+      "wbc": 19000,
+      "hemoglobin": 12.3,
+      "hematocrit": "38%"
+    },
+    "chemistries": {
+      "sodium": 146,
+      "potassium": 4.2,
+      "glucose": 105
+    },
+    "urinalysis": {
+      "color": "Cloudy, dark yellow",
+      "specific_gravity": 1.04,
+      "ph": 7.9,
+      "rbc": "None",
+      "wbc": 8
+    },
+    "urine_culture": "Negative"
+  },
+  "medications_and_treatment": {
+    "oral": [
+      "Lioresal (baclofen) 10mg PO TID",
+      "Ditropan XL (oxybutynin) 5mg PO BID",
+      "Prilosec (omeprazole) 40mg PO daily",
+      "Zoloft (sertraline) 50mg PO daily",
+      "Miralax (polyethylene glycol) 17g in 6 oz water PO daily",
+      "Colace (docusate sodium) 100mg PO daily",
+      "Multivitamin PO daily",
+      "Tylenol (acetaminophen) 650mg PO Q6H PRN"
+    ],
+    "iv": [
+      "Vancomycin 1g daily",
+      "Piperacillin/Tazobactam 3.375g every 6 hours"
+    ]
+  },
+  "nutrition_and_gi": {
+    "bmi": 23.2,
+    "dentition": "Healthy",
+    "abdominal_exam": "Flat, nontender, hypoactive bowel sounds",
+    "appetite": "Decreased last 3\u20134 days",
+    "diet": "Regular with assistance",
+    "supplements": "Usually 1 Ensure daily, sometimes 2",
+    "pattern": "Eats >50% of most meals, 4 servings of protein/day, sometimes takeout",
+    "denies": "No N/V/D or abdominal pain"
+  },
+  "urinary_and_bowel": {
+    "urinary": {
+      "condition": "Neurogenic bladder with chronic indwelling catheter",
+      "last_change": "2.5 weeks ago",
+      "appearance": "Cloudy, medium-dark yellow"
+    },
+    "bowel": {
+      "condition": "Chronic constipation",
+      "sounds": "Hypoactive",
+      "last_bm": "2 days ago",
+      "meds": [
+        "Miralax",
+        "Colace"
+      ],
+      "compliance": "Missed some doses over last 2 weeks"
+    }
+  },
+  "sensory_and_sleep": {
+    "cognition": "A&Ox4",
+    "pain": "8/10, worsens with spasms",
+    "eyes": {
+      "status": "PERRLA, conjunctiva white",
+      "correction": "Wears glasses",
+      "last_exam": "1 year ago",
+      "subjective": "Denies vision issues"
+    },
+    "ears": {
+      "status": "Clean",
+      "subjective": "Denies drainage, itching, vertigo, hearing loss, or tinnitus"
+    },
+    "sleep": {
+      "quality": "Poor",
+      "issues": "Goes to bed late, trouble falling asleep",
+      "aids": "Uses Nyquil occasionally with success"
+    }
+  },
+  "wound_and_skin": {
+    "pressure_injury": "Stage 4 coccyx ulcer with green/yellow/bloody drainage and foul odor",
+    "infection": "Osteomyelitis and sepsis",
+    "braden_scale": {
+      "sensory_perception": 1,
+      "moisture": 2,
+      "activity": 1,
+      "mobility": 1,
+      "nutrition": 3,
+      "friction_shear": 1
+    },
+    "additional_skin": "Small red blister at inferior urethral meatus"
+  },
+  "sexuality_and_reproductive": {
+    "activity": "Not currently sexually active",
+    "orientation": "Straight male",
+    "children": "None",
+    "sti_history": "Denies any",
+    "finding": "Small red blister to inferior urethral meatus"
+  },
+  "value_and_belief": {
+    "religion": "Non-denominational",
+    "beliefs": "Believes in God but does not actively practice or think about it much"
+  }
+}

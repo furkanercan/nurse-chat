@@ -1,0 +1,227 @@
+{
+  "demographics": {
+    "name": "Cynthia Hallett",
+    "date_of_birth": "1935-01-01",
+    "sex": "Female",
+    "age": 90,
+    "weight": "153 lbs",
+    "height": "5ft 4in",
+    "race": "African American",
+    "ethnicity": "Non Hispanic",
+    "language": "English",
+    "religion": "Catholic",
+    "education": "Graduated high school"
+  },
+  "social_background": {
+    "marital_status": "Married for 68 years",
+    "occupation": "Retired homemaker",
+    "residence": "Long-term care facility",
+    "income": "Resides in nursing home, $72.80/month personal needs via Medicaid; family provides extras",
+    "substance_use": "No smoking, alcohol, or illicit drug use"
+  },
+  "family_history": {
+    "parents": "Deceased, no known history",
+    "children": [
+      {
+        "status": "Alive",
+        "age": 67,
+        "condition": "Healthy, prediabetic"
+      },
+      {
+        "status": "Deceased",
+        "age": 65,
+        "condition": "HTN, CKD, MI"
+      },
+      {
+        "status": "Alive",
+        "age": 64,
+        "condition": "HTN, hyperlipidemia, CHF"
+      }
+    ]
+  },
+  "medical_history": {
+    "diagnoses": [
+      "Dementia with behavioral disturbance",
+      "Congestive heart failure",
+      "Hyperlipidemia",
+      "Chronic kidney disease stage 3",
+      "Generalized muscle weakness"
+    ],
+    "allergies": "Percocet - urticaria",
+    "immunizations": [
+      "COVID Booster 11/2024",
+      "Flu 09/2024",
+      "RSV 01/2025",
+      "PCV20 12/2021"
+    ],
+    "health_perception": "Unable to recall events due to severe dementia. Per nursing home staff and family, CHF was stable before admission. Last cardiology appointment ~6 months ago. Declining oral intake and frequent falls raise concern for failure to thrive."
+  },
+  "mental_health": {
+    "status": "Severe dementia with behavioral disturbance; initial ICU stay required frequent sedation due to agitation; now acclimated. Agitation and confusion worsen in unfamiliar environments."
+  },
+  "functional_status": {
+    "mobility": "Ambulates with supervision but has had more than 3 falls in past month due to unsteady gait and fatigue. Not appropriate for PT/OT due to cognitive impairment and inability to use walker.",
+    "continence": {
+      "urinary": "Incontinent, wears briefs; with prompting can use toilet after meals",
+      "bowel": "Incontinent, wears briefs; with prompting can use toilet after meals"
+    },
+    "activity_order": "Ambulates with supervision"
+  },
+  "appointments_and_support": {
+    "attending_provider": "Dr. Alkim Kurt",
+    "support_contacts": {
+      "primary": "Sue (Daughter) - 234-567-8900"
+    },
+    "major_support": "Nursing home level care, supportive husband and daughter",
+    "follow_up": "Routinely followed by nursing home providers; cardiology follow-up 6 months ago"
+  },
+  "surgical_history": {
+    "procedures": [
+      "2 previous C-sections"
+    ]
+  },
+  "er_admission": {
+    "reason_for_admission": "Worsening heart failure",
+    "history_of_present_illness": "Presented to ED with increasing SOB at rest over 2 days, 8lb weight gain in 1 week, poor diuretic response, and electrolyte abnormalities. Chest X-ray: pulmonary congestion, cardiomegaly. ECG: Atrial fibrillation with rapid ventricular rate (HR 115\u2013125).",
+    "icu_status": "In ICU for 48 hours"
+  },
+  "labs_and_vitals": {
+    "complete_blood_count": {
+      "white_blood_cells": {
+        "value": 7.5,
+        "unit": "cells/mm\u00b3",
+        "normal_range": "4,100\u201310,900",
+        "status": "Normal"
+      },
+      "hemoglobin": {
+        "value": 10.8,
+        "unit": "g/dL",
+        "normal_range": "12\u201315.2",
+        "status": "Low"
+      },
+      "hematocrit": {
+        "value": 32,
+        "unit": "%",
+        "normal_range": "37\u201346",
+        "status": "Low"
+      }
+    },
+    "chemistries": {
+      "sodium": {
+        "value": 132,
+        "unit": "mEq/L",
+        "normal_range": "135\u2013145",
+        "status": "Low"
+      },
+      "potassium": {
+        "value": 3.4,
+        "unit": "mEq/L",
+        "normal_range": "3.5\u20134.5",
+        "status": "Low"
+      },
+      "glucose": {
+        "value": 116,
+        "unit": "mg/dL",
+        "normal_range": "90\u2013110",
+        "status": "Slightly elevated"
+      }
+    },
+    "urinalysis": {
+      "color": {
+        "value": "Yellow",
+        "status": "Normal"
+      },
+      "specific_gravity": {
+        "value": 1.033,
+        "normal_range": "1.005\u20131.035",
+        "status": "Normal"
+      },
+      "pH": {
+        "value": 7.4,
+        "normal_range": "4.5\u20138.0",
+        "status": "Normal"
+      },
+      "red_blood_cells": {
+        "value": 0,
+        "normal_range": "0\u20132/HPF",
+        "status": "Normal"
+      },
+      "white_blood_cells": {
+        "value": 0,
+        "normal_range": "0\u20135/HPF",
+        "status": "Normal"
+      }
+    },
+    "urine_culture": {
+      "result": "Negative",
+      "status": "Normal"
+    }
+  },
+  "medications_and_treatment": {
+    "current_medications": [
+      "Docusate sodium (Colace) 100mg PO twice a day",
+      "Furosemide (Lasix) 40mg PO twice a day **(ON HOLD due to IV Lasix)**",
+      "Mirtazapine 15mg PO daily at bedtime",
+      "Olanzapine 5mg PO daily at bedtime",
+      "Senna 8.6mg PO daily",
+      "Metoprolol succinate ER (Toprol XL) 25mg PO daily",
+      "Acetaminophen (Tylenol) 650mg PO twice a day",
+      "Trazodone 50mg PO daily at bedtime",
+      "Apixaban 5mg PO twice a day"
+    ]
+  },
+  "nutrition_and_gi": {
+    "BMI": 34.1,
+    "diet": "No added salt (NAS), soft and bite-sized, thin liquids",
+    "supplements": "Ensure 8oz TID between meals and bedtime",
+    "GI_status": "Abdomen round, smooth skin, no distention. Normal bowel sounds. Tympany noted, no masses or tenderness. Tolerating diet well. No GI concerns reported.",
+    "appetite": "Poor baseline appetite per nursing facility"
+  },
+  "urinary_and_bowel": {
+    "urinary": {
+      "status": "Incontinent, wears briefs",
+      "behavior": "Will sometimes use toilet with prompting after meals"
+    },
+    "bowel": {
+      "status": "Incontinent, wears briefs",
+      "behavior": "Will sometimes use toilet with prompting after meals"
+    },
+    "medications": [
+      "Docusate sodium",
+      "Senna"
+    ]
+  },
+  "sensory_and_sleep": {
+    "vision": "Appears adequate, no glasses",
+    "hearing": "Appears adequate, no devices",
+    "sleep": "Frequently awake at night, wanders the unit; often falls asleep in chair"
+  },
+  "wound_and_skin": {
+    "braden_scale": {
+      "sensory_perception": "3 - Slightly limited: Responds to verbal commands but cannot always communicate discomfort or need to be turned",
+      "moisture": "2 - Moist: Skin is often but not always moist. Linen must be changed at least once a shift.",
+      "activity": "3 - Walks occasionally: Walks short distances with or without assistance. Spends majority of time in bed or chair.",
+      "mobility": "3 - Slightly limited: Makes frequent but slight changes in body or extremity position independently.",
+      "nutrition": "2 - Probably Inadequate: Rarely eats a full meal. Protein intake ~3 servings/day. Occasionally takes supplements.",
+      "friction_and_shear": "2 - Potential problem: Moves feebly, may slide during movement. Maintains position most of the time but occasionally slides."
+    }
+  },
+  "self_perception": {
+    "behavior": "Initially required sedation in ICU due to agitation from cognitive impairment. Now acclimated with frequent family presence."
+  },
+  "roles_and_relationships": {
+    "husband": "Visits daily for lunch, brings treats from coffee shop",
+    "daughter": "Healthcare proxy, very supportive and involved"
+  },
+  "sexuality_and_reproduction": {
+    "objective": "Resides in nursing home, not sexually active; has 3 children"
+  },
+  "coping_and_stress_tolerance": {
+    "observations": "Cognitive impairment leads to agitation and confusion in unfamiliar settings; family involvement (esp. husband) helps reduce stress; husband attempts to walk her around unit"
+  },
+  "values_and_beliefs": {
+    "faith_background": "Catholic",
+    "past_involvement": "Previously active in church",
+    "current_observance": "Attends weekly mass at facility, but often wanders off shortly after"
+  }
+}

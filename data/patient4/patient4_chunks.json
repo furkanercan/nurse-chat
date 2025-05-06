@@ -1,0 +1,351 @@
+{
+  "demographics": {
+    "name": "Alma Sampson",
+    "sex": "Female",
+    "date_of_birth": "12/2/1940",
+    "age": 84,
+    "height": "62 inches (157 cm)",
+    "weight": "170 lbs (77.3 kg)",
+    "allergies": "NKDA",
+    "religion": "Jehovah Witness"
+  },
+  "social_background": {
+    "living_situation": "Lives with daughter who is also caretaker",
+    "support_person": {
+      "name": "Aida (Daughter)",
+      "phone": "555-567-8900"
+    },
+    "education": "High school GED, no college",
+    "religion": {
+      "affiliation": "Jehovah Witness",
+      "practice": "Attends church in the next town, lifelong member since childhood"
+    },
+    "language": [
+      "Amharic",
+      "English"
+    ],
+    "marital_status": "Widow",
+    "occupation": "Homemaker, never worked outside the house",
+    "immigration_history": "Born in Ethiopia, immigrated to the U.S. in 1968 at age 28",
+    "substance_use": {
+      "tobacco": "Never used",
+      "alcohol": "Rarely drinks, only for special occasions (e.g., a glass of wine)",
+      "drugs": "Denies drug use"
+    },
+    "income": "Lives with daughter and receives little to no social security income"
+  },
+  "family_history": {
+    "parents": {
+      "status": "Deceased",
+      "age_at_death": "70s"
+    },
+    "siblings": [
+      {
+        "relation": "Sister",
+        "status": "Alive",
+        "age": 82,
+        "conditions": [
+          "Alzheimer's disease",
+          "Type 2 Diabetes",
+          "Breast cancer",
+          "Hypertension"
+        ]
+      },
+      {
+        "relation": "Brother",
+        "status": "Deceased",
+        "age_at_death": 76,
+        "cause": "Heart failure"
+      },
+      {
+        "relation": "Brother",
+        "status": "Deceased",
+        "age_at_death": 60,
+        "cause": "Alcohol abuse"
+      },
+      {
+        "relation": "Sister",
+        "status": "Deceased",
+        "age_at_death": 80,
+        "cause": "Infection related to poorly controlled Type 2 Diabetes"
+      }
+    ],
+    "children": {
+      "daughters": 2,
+      "sons": 2,
+      "status": "All alive and healthy"
+    }
+  },
+  "medical_history": {
+    "past_conditions": [
+      "Hypertension (HTN)",
+      "Dyslipidemia",
+      "Type 2 Diabetes",
+      "Coronary Artery Disease (CAD)",
+      "Peripheral Neuropathy",
+      "Hypothyroidism",
+      "Mild Cognitive Impairment",
+      "Vitamin D Deficiency",
+      "History of breast cancer with right mastectomy and lymph node removal",
+      "History of lymphedema in the right upper extremity (RUE)"
+    ],
+    "immunizations": "No record of immunizations",
+    "attending_provider": "Dr. Diva Patel"
+  },
+  "mental_health": {
+    "self_perception": {
+      "identity": "Proud mother and wife",
+      "satisfaction": "Feels satisfied with her life",
+      "spiritual_engagement": "Active in church",
+      "grief": "Misses her husband often",
+      "attitude_toward_death": "Not afraid to die"
+    },
+    "coping_and_stress_tolerance": {
+      "strategy": "Leans on religion and religious community for support",
+      "emotional_state": "Overall happy",
+      "memory_impact": "Poor short-term memory causes frustration",
+      "stress_management": "States she manages stress well"
+    }
+  },
+  "functional_status": {
+    "health_perception": {
+      "source": "Reported mostly by daughter",
+      "daughter_view": "Health is 'not great'; concerns about memory and mobility",
+      "patient_view": "Feels 'old, but doing well considering her medical problems'"
+    },
+    "follow_up": {
+      "PCP": "Every 4 months",
+      "specialists": [
+        "Cardiology",
+        "Endocrinology"
+      ]
+    },
+    "cognitive_status": "Early dementia, progressing slowly",
+    "ADLs": "Independent",
+    "IADLs": "Struggles with some; receives help from daughter",
+    "living_support": "Lives with daughter who helps care for her",
+    "mobility": {
+      "pre-hospitalization": "Ambulated without cane or walker, used furniture to steady herself",
+      "current": "Daughter reports worsening strength and coordination"
+    },
+    "exercise": "Does not engage in any regular exercise"
+  },
+  "appointments_and_support": {
+    "living_with": "Daughter (caretaker) in in-law apartment",
+    "family_visits": "Sees grandchildren and great-grandchildren many times a month",
+    "community_support": "Active in her church"
+  },
+  "surgical_history": [
+    {
+      "procedure": "Hysterectomy",
+      "year": 1988,
+      "age": 48
+    },
+    {
+      "procedure": "Teeth extraction",
+      "year": 1999,
+      "age": 59
+    },
+    {
+      "procedure": "Right breast mastectomy and lymph node resection",
+      "year": 2005,
+      "age": 65
+    }
+  ],
+  "er_admission": {
+    "reason_for_admission": "Fall resulting in left hip fracture and left hemothorax",
+    "treatment": [
+      "Open reduction and internal fixation (ORIF) of left hip",
+      "Emergent chest tube placement for hemothorax"
+    ]
+  },
+  "labs_and_vitals": {
+    "complete_blood_count": {
+      "white_blood_cells": {
+        "result": 9400,
+        "unit": "cells/mm3",
+        "normal_range": "4100\u201310900"
+      },
+      "hemoglobin": {
+        "result": 10.5,
+        "unit": "g/dL",
+        "normal_range": "12\u201315.2",
+        "flag": "Low"
+      },
+      "hematocrit": {
+        "result": 32,
+        "unit": "%",
+        "normal_range": "37\u201346",
+        "flag": "Low"
+      }
+    },
+    "chemistries": {
+      "sodium": {
+        "result": 144,
+        "unit": "mEq/L",
+        "normal_range": "135\u2013145"
+      },
+      "potassium": {
+        "result": 4,
+        "unit": "mEq/L",
+        "normal_range": "3.5\u20134.5"
+      },
+      "glucose": {
+        "result": 165,
+        "unit": "mg/dL",
+        "normal_range": "90\u2013110",
+        "flag": "High"
+      }
+    },
+    "urinalysis": {
+      "urine_color": {
+        "result": "Cloudy",
+        "normal": "Clear, yellow"
+      },
+      "specific_gravity": {
+        "result": 1.009,
+        "normal_range": "1.005\u20131.035"
+      },
+      "pH": {
+        "result": 5.9,
+        "normal_range": "4.5\u20138.0"
+      },
+      "red_blood_cells": {
+        "result": "None",
+        "normal_range": "0\u20132/HPF"
+      },
+      "white_blood_cells": {
+        "result": 5,
+        "normal_range": "0\u20135/HPF"
+      }
+    },
+    "urine_culture": {
+      "result": "Negative",
+      "normal": "Negative"
+    }
+  },
+  "medications_and_treatment": {
+    "medications": [
+      "Zestril (lisinopril) 20mg PO daily",
+      "Hydrodiuril (hydrochlorothiazide) 50mg PO daily",
+      "Zocor (simvastatin) 40mg PO daily",
+      "Aspir-81 (aspirin) 81mg PO daily",
+      "Glucophage (metformin) 1g PO twice daily",
+      "Synthroid (levothyroxine) 81mcg PO daily",
+      "Cholecalciferol (vitamin D3) 2000 IU PO daily",
+      "Namenda (memantine) 5mg PO daily",
+      "Desyrel (trazodone) 50mg PO at night"
+    ],
+    "physician_orders": {
+      "diet": "Regular diet, thin liquids",
+      "activity": "Out of bed (OOB) 3 times a day to chair with 1 assist and walker",
+      "hip_precautions": [
+        "Do not bend the hip more than 90 degrees",
+        "Do not cross legs or feet",
+        "Do not roll or lie on your unoperated side for the first 6 weeks",
+        "Do not twist the upper body when standing"
+      ],
+      "SCDs": "To be worn at all times when in bed or sitting in the chair"
+    }
+  },
+  "nutrition_and_gi": {
+    "BMI": 31.1,
+    "oral_health": "Wears full upper and lower dentures",
+    "hydration_status": "Appears slightly dehydrated; tenting at clavicle",
+    "muscle_status": "Muscle wasting present throughout",
+    "abdominal_exam": {
+      "inspection": "Slightly rounded abdomen",
+      "auscultation": "Active bowel sounds",
+      "palpation": "No guarding, no masses, no tenderness"
+    },
+    "GI_symptoms": {
+      "nausea": "No",
+      "vomiting": "No",
+      "diarrhea": "No",
+      "last_bowel_movement": "Yesterday after enema"
+    },
+    "diet": {
+      "type": "Regular diet",
+      "tolerance": "Tolerates well but with decreased appetite due to drowsiness and breathing difficulty",
+      "intake": "Generally finishes half of her meals"
+    },
+    "subjective": {
+      "abdominal_pain": "Denies",
+      "appetite": "Decreased; reports not feeling hungry and scared to eat due to sensation of breathlessness"
+    }
+  },
+  "urinary_and_bowel": {
+    "urinary": {
+      "status": "Continent to incontinent",
+      "management": "Wears pads for occasional accidents",
+      "subjective": "Has accidents when bladder is full or while out"
+    },
+    "bowel": {
+      "status": "Continent",
+      "issues": "Occasional constipation",
+      "management": "Drinks prune juice to help"
+    }
+  },
+  "sensory_and_sleep": {
+    "cognition": {
+      "orientation": "A&Ox2 (disoriented to situation and date)"
+    },
+    "vision": {
+      "aids": "Glasses for farsightedness",
+      "subjective": "Reports blurry vision even with glasses, but can read with effort"
+    },
+    "hearing": {
+      "status": "Hard of hearing (HOH)",
+      "aids": "Wears hearing aids when reminded",
+      "subjective": "Needs higher TV volume, dislikes using hearing aids"
+    },
+    "pain": {
+      "locations": [
+        "Left hip",
+        "Left chest"
+      ],
+      "intensity": "5 to 6 out of 10"
+    },
+    "sleep": {
+      "difficulty_falling_asleep": true,
+      "night_waking": "Multiple times to use the bathroom",
+      "medication": "Takes trazodone at night, helps slightly"
+    }
+  },
+  "sexuality_reproductive": {
+    "status": "Postmenopausal",
+    "surgical_history": "Status-post hysterectomy",
+    "sexual_activity": "No longer sexually active"
+  },
+  "value_belief_pattern": {
+    "spirituality": "Religious and spiritual",
+    "religious_affiliation": "Jehovah's Witness",
+    "church_involvement": "Attends Jehovah's Witness church in neighboring town, lifelong member"
+  },
+  "wound_and_skin": {
+    "sensory_perception": {
+      "score": 3,
+      "description": "Slightly limited: Responds to verbal commands but cannot always communicate discomfort or need to be turned, or has some sensory impairment limiting ability to feel pain in 1 or 2 extremities."
+    },
+    "moisture": {
+      "score": 3,
+      "description": "Occasionally moist: Skin is occasionally moist, requiring an extra linen change approximately once a day."
+    },
+    "activity": {
+      "score": 2,
+      "description": "Chairfast: Ability to walk severely limited or non-existent. Cannot bear own weight and/or must be assisted into chair or wheelchair."
+    },
+    "mobility": {
+      "score": 2,
+      "description": "Very limited: Makes occasional slight changes in body or extremity position but unable to make frequent or significant changes independently."
+    },
+    "nutrition": {
+      "score": 2,
+      "description": "Probably inadequate: Rarely eats a complete meal, eats only about half of food offered. Protein intake includes ~3 servings of meat or dairy per day. Occasionally takes dietary supplements."
+    },
+    "friction_and_shear": {
+      "score": 2,
+      "description": "Potential problem: Moves feebly or needs minimal assistance. Skin may slide during repositioning. Maintains good position most of the time but occasionally slides down."
+    }
+  }
+}

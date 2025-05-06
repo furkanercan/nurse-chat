@@ -1,0 +1,390 @@
+{
+  "demographics": {
+    "name": "Angela Dunright",
+    "date_of_birth": "10/31/2005",
+    "sex": "Female",
+    "age": 20,
+    "weight": "130 lbs",
+    "height": "5\u20191\u201d",
+    "race": "African American",
+    "ethnicity": "African American",
+    "religion": "Christianity",
+    "education": "Currently enrolled in college, pursuing a degree in Biology",
+    "language": "English"
+  },
+  "social_background": {
+    "incident": "In January 2024, Angela was involved in a traumatic accident in which a horse tripped and fell on her.",
+    "protective_gear": "No helmet or safety vest was worn at the time.",
+    "mobility": "Can ambulate with walker, primarily uses wheelchair outside home.",
+    "substance_use": {
+      "alcohol": "No alcohol use",
+      "tobacco": "No tobacco use",
+      "illicit_drugs": "No illicit drug use"
+    },
+    "financial_support": "Relies entirely on her parents for financial support",
+    "social_life": "Involved in school and social activities, socializes daily with best friend, not in a romantic relationship"
+  },
+  "family_history": {
+    "major_support": "Michael Dunright (Father), Lorie Dunright (Mother)",
+    "support_phone": "(555) 123 - 3210",
+    "details": {
+      "father": "45 y.o, alive, no known medical conditions",
+      "mother": "43 y.o, alive, hypertension, diabetes",
+      "siblings": "None",
+      "paternal_grandmother": "67 y.o, alive, melanoma (removed), actinic keratosis (present)",
+      "paternal_grandfather": "65 y.o, alive, hypertension, hyperlipidemia",
+      "maternal_grandmother": "Unknown",
+      "maternal_grandfather": "Unknown"
+    }
+  },
+  "medical_history": {
+    "past_medical_history": [
+      "bacteremia (2025)",
+      "cauda equina syndrome (2024)",
+      "neurogenic bladder (2024)",
+      "pyelonephritis (2024)",
+      "UTI (2024)",
+      "bilateral lower extremity weakness (2024)"
+    ],
+    "allergies": "No known allergies",
+    "immunizations": "Up to date",
+    "history_of_present_illness": "Angela Dunright is a 20-year-old female admitted to the ICU with pyelonephritis and suspected bacteremia. She reports worsening fever, body aches, chills, and increasing hematuria over the past few days. History includes previous ICU admission for bacteremia a month and a half ago and ongoing complications from a 2024 horse accident resulting in cauda equina syndrome and neurogenic bladder.",
+    "health_perception": "Patient and family understand her medical conditions and she adheres to treatments, including catheterization and prophylactic antibiotics."
+  },
+  "mental_health": {
+    "self_perception": "Angela remains positive despite health challenges and is motivated to maintain independence.",
+    "coping": "Calls her parents for support and relies on Christian faith during stress."
+  },
+  "functional_status": {
+    "mobility": "Uses a walker at home, primarily uses wheelchair otherwise",
+    "urinary_dependence": "Requires intermittent catheterization due to urinary retention",
+    "muscle_strength": "Decreased bilateral lower extremity strength (3/5)",
+    "activity": "Ambulates at home with walker, participates in biweekly PT and OT"
+  },
+  "appointments_and_support": {
+    "attending_provider": "Dr. Alkim Kurt"
+  },
+  "surgical_history": {
+    "surgeries": [
+      "Spinal decompression surgery (2024)"
+    ]
+  },
+  "er_admission": {},
+  "labs_and_vitals": {
+    "complete_blood_count": {
+      "white_blood_cells": {
+        "value": 17000,
+        "unit": "cells/mm\u00b3",
+        "normal_range": "4,100\u201310,900",
+        "interpretation": "High"
+      },
+      "hemoglobin": {
+        "value": 13.2,
+        "unit": "g/dL",
+        "normal_range": "12\u201315.2"
+      },
+      "hematocrit": {
+        "value": 44,
+        "unit": "%",
+        "normal_range": "37%\u201346%"
+      },
+      "red_blood_cells": {
+        "value": 4.9,
+        "unit": "million/mcL",
+        "normal_range": "4.0\u20135.4"
+      },
+      "mean_corpuscular_volume": {
+        "value": 95,
+        "unit": "fL",
+        "normal_range": "80\u201398"
+      },
+      "mean_corpuscular_hemoglobin": {
+        "value": 30,
+        "unit": "pg",
+        "normal_range": "28\u201332"
+      },
+      "mean_corpuscular_hemoglobin_concentration": {
+        "value": 34,
+        "unit": "g/dL",
+        "normal_range": "33\u201336"
+      },
+      "red_cell_distribution_width": {
+        "value": 13.5,
+        "unit": "%",
+        "normal_range": "9.0%\u201314.5%"
+      },
+      "platelet_count": {
+        "value": 275,
+        "unit": "x 10\u2079/L",
+        "normal_range": "150\u2013350"
+      },
+      "mean_platelet_volume": {
+        "value": 8.8,
+        "unit": "fL",
+        "normal_range": "7.0\u20139.0"
+      }
+    },
+    "comprehensive_metabolic_panel": {
+      "glucose": {
+        "value": 95,
+        "unit": "mg/dL",
+        "normal_range": "90\u2013110"
+      },
+      "calcium": {
+        "value": 9.6,
+        "unit": "mg/dL",
+        "normal_range": "9\u201310.5"
+      },
+      "total_protein": {
+        "value": 5.7,
+        "unit": "g/dL",
+        "normal_range": "5.5\u20139.0"
+      },
+      "albumin": {
+        "value": 3.9,
+        "unit": "g/dL",
+        "normal_range": "3.5\u20135.5"
+      },
+      "sodium": {
+        "value": 139,
+        "unit": "mEq/L",
+        "normal_range": "135\u2013145"
+      },
+      "potassium": {
+        "value": 4.1,
+        "unit": "mEq/L",
+        "normal_range": "3.5\u20134.5"
+      },
+      "chloride": {
+        "value": 98,
+        "unit": "mmol/L",
+        "normal_range": "95\u2013105"
+      },
+      "bicarbonate": {
+        "value": 25,
+        "unit": "mEq/L",
+        "normal_range": "23\u201326"
+      },
+      "blood_urea_nitrogen": {
+        "value": 12,
+        "unit": "mg/dL",
+        "normal_range": "8\u201320"
+      },
+      "creatinine": {
+        "value": 1.01,
+        "unit": "mg/dL",
+        "normal_range": "0.8\u20131.3"
+      },
+      "alkaline_phosphatase": {
+        "value": 52,
+        "unit": "U/L",
+        "normal_range": "30\u2013120"
+      },
+      "alanine_aminotransferase": {
+        "value": 16,
+        "unit": "U/L",
+        "normal_range": "10\u201340"
+      },
+      "aspartate_aminotransferase": {
+        "value": 18,
+        "unit": "U/L",
+        "normal_range": "10\u201340"
+      },
+      "total_bilirubin": {
+        "value": 0.5,
+        "unit": "mg/dL",
+        "normal_range": "0.3\u20131.0"
+      }
+    },
+    "urinalysis": {
+      "urine_color": {
+        "value": "Cloudy, red",
+        "normal": "Clear, yellow",
+        "interpretation": "Abnormal"
+      },
+      "specific_gravity": {
+        "value": 1.019,
+        "normal_range": "1.005\u20131.035"
+      },
+      "pH": {
+        "value": 6.2,
+        "normal_range": "4.5\u20138.0"
+      },
+      "red_blood_cells": {
+        "value": 2,
+        "unit": "/HPF",
+        "normal_range": "0\u20132"
+      },
+      "white_blood_cells": {
+        "value": 5,
+        "unit": "/HPF",
+        "normal_range": "0\u20135"
+      }
+    },
+    "cultures": {
+      "urine_culture": {
+        "status": "pending",
+        "expected": "Negative"
+      },
+      "blood_culture": {
+        "status": "pending",
+        "expected": "Negative"
+      }
+    }
+  },
+  "medications_and_treatment": {
+    "current_medications": [
+      "Oxybutynin 5 mg, PO, qd",
+      "Nitrofurantoin 100 mg, PO, qd",
+      "Magnesium citrate 300 mg, PO, PRN, qd"
+    ],
+    "physician_orders": {
+      "diet": "No restrictions, balanced diet. PRN meal replacement shakes, limited to 5 per day.",
+      "activity": "No restrictions",
+      "medications": [
+        {
+          "name": "Vancomycin",
+          "dose": "15 mg/kg",
+          "route": "IV",
+          "frequency": "q12hr",
+          "times": [
+            "1000",
+            "2200"
+          ]
+        },
+        {
+          "name": "Cefepime",
+          "dose": "2g",
+          "route": "IV",
+          "frequency": "q8hr",
+          "times": [
+            "1000",
+            "1800",
+            "0200"
+          ]
+        },
+        {
+          "name": "Oxybutynin",
+          "dose": "5 mg",
+          "route": "PO",
+          "frequency": "qAM",
+          "time": "0800"
+        },
+        {
+          "name": "Multivitamin",
+          "dose": "1 tablet",
+          "route": "PO",
+          "frequency": "qAM",
+          "time": "0800"
+        },
+        {
+          "name": "Acetaminophen",
+          "dose": "650 mg",
+          "route": "IV",
+          "frequency": "PRN",
+          "interval": "q4hr"
+        },
+        {
+          "name": "Magnesium citrate",
+          "dose": "300 mg",
+          "route": "PO",
+          "frequency": "PRN",
+          "interval": "qd"
+        },
+        {
+          "name": "Normal saline",
+          "dose": "500 mL",
+          "route": "IV",
+          "times": [
+            "1000",
+            "1800",
+            "2200",
+            "0200"
+          ]
+        },
+        {
+          "name": "Normal saline",
+          "dose": "250 mL",
+          "route": "IV",
+          "frequency": "PRN"
+        }
+      ]
+    }
+  },
+  "nutrition_and_gi": {
+    "objective": {
+      "inspection": "Abdomen is flat with even skin tone; no lesions or rashes.",
+      "auscultation": "Hypoactive bowel sounds in all quadrants.",
+      "percussion": "Tympany with scattered dullness in all quadrants.",
+      "palpation": "Nontender"
+    },
+    "subjective": {
+      "appetite": "Reports low appetite, feels too tired to eat.",
+      "diet": "Eats fast food and cup noodles; 2 meals/day, often half-eaten.",
+      "supplements": "Occasionally drinks meal replacement shakes in the morning.",
+      "GI_symptoms": "Denies nausea, vomiting, diarrhea, or abdominal pain.",
+      "diet_tolerance": "No food intolerances or allergies reported."
+    }
+  },
+  "urinary_and_bowel": {
+    "urinary": {
+      "objective": "Cloudy, red/wine colored urine with clots.",
+      "subjective": "Uses straight catheterization six times/day; sometimes forgets. Reports moisture and occasional leakage. Hematuria started 4 days ago. Denies frequency or dysuria."
+    },
+    "bowel": {
+      "objective": "Continent with one-person assist; call light in reach.",
+      "subjective": "3\u20134 formed BMs/week. Uses magnesium citrate PRN for constipation. Denies blood in stool and diarrhea."
+    }
+  },
+  "sensory_and_sleep": {
+    "cognitive_perceptual": {
+      "eyes": {
+        "objective": "PERRL, visual acuity 20/20",
+        "subjective": "Denies vision changes"
+      },
+      "ears": {
+        "objective": "Canals clear, tympanic membranes intact",
+        "subjective": "Denies hearing changes"
+      }
+    },
+    "sleep": {
+      "objective": "Appears lethargic during exam, slow to respond to verbal commands",
+      "subjective": "Occasionally has difficulty falling asleep due to noisy roommates"
+    }
+  },
+  "wound_and_skin": {
+    "braden_scale": {
+      "sensory_perception": {
+        "score": 3,
+        "description": "Slightly limited: Responds to verbal commands but cannot always communicate discomfort or need to be turned, OR has some sensory impairment which limits ability to feel pain or discomfort in 1 or 2 extremities."
+      },
+      "moisture": {
+        "score": 2,
+        "description": "Moist: Skin is often but not always moist. Linen must be changed at least once a shift."
+      },
+      "activity": {
+        "score": 2,
+        "description": "Chairfast: Ability to walk severely limited or non-existent. Cannot bear own weight and/or must be assisted into chair or wheelchair."
+      },
+      "mobility": {
+        "score": 3,
+        "description": "Slightly limited: Makes frequent though slight changes in body extremity position independently."
+      },
+      "nutrition": {
+        "score": 2,
+        "description": "Probably Inadequate: Rarely eats a complete meal and generally eats only about \u00bd of any food offered. Protein intake includes only 3 servings of meat or dairy products per day. Occasionally will take a dietary supplement, OR receives less than optimum amount of liquid diet or tube feeding."
+      },
+      "friction_and_shear": {
+        "score": 2,
+        "description": "Potential problem: Moves feebly or requires minimum assistance. During a move, skin probably slides to some extent against sheets, chair, restraints, or other devices. Maintains relatively good position in chair or bed most of the time but occasionally slides down."
+      }
+    }
+  },
+  "sexuality_and_reproductive": {
+    "menstrual_cycle": "Regular monthly cycle; last period started two weeks ago",
+    "sexual_activity": "Not currently sexually active"
+  },
+  "values_and_beliefs": {
+    "faith": "Christian faith plays an important role in coping and decision-making"
+  }
+}

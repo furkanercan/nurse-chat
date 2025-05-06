@@ -1,0 +1,293 @@
+{
+    "demographics": {
+        "name": "Charley Bob",
+        "date_of_birth": "10/10/1980",
+        "sex": "Male",
+        "age": "45 y.o",
+        "weight": "190 lbs",
+        "height": "5'10\"",
+        "race": "Native American",
+        "ethnicity": "Non-Hispanic",
+        "religion": "Christianity",
+        "allergies": "Stone fruit - generalized urticaria",
+        "support_phone": "944-398-2465",
+        "attending_provider": "Dr. Alkim Kurt",
+        "immunizations": "Up to date",
+        "education": "College-educated"
+    },
+    "social_background": {
+        "health_perception": "Charley is appreciative of the healthcare he has received. He attends all scheduled appointments and takes his medications as prescribed. Despite physical limitations, he tries to follow healthcare recommendations and is proactive in managing his care. However, he is unable to care for his bilateral pressure ulcers over his ischial tuberosities. He depends on his parents to help him with ADLs, position changes, and daily wound care. He states that he understands the importance of ADLs, frequent position changes, and daily wound care. Also, he reports that his parents lack the physical strength and endurance to effectively meet his daily care needs and that he understands the associated risks with this limitation. Currently, he and his family cannot afford to hire help, but he is hopeful he can afford home health care with the income from his new job."
+    },
+    "family_history": {
+        "mother": {
+            "age": "74 y.o",
+            "status": "alive",
+            "condition": "hypertension"
+        },
+        "father": {
+            "age": "78 y.o",
+            "status": "alive",
+            "condition": "colon cancer"
+        },
+        "brother": {
+            "age": "47 y.o",
+            "status": "alive",
+            "condition": "hypertension, benign prostatic hyperplasia"
+        },
+        "maternal_grandmother": {
+            "status": "deceased",
+            "condition": "hypertension"
+        },
+        "maternal_grandfather": {
+            "status": "deceased",
+            "condition": "cirrhosis"
+        },
+        "paternal_grandmother": {
+            "status": "deceased"
+        },
+        "paternal_grandfather": {
+            "status": "deceased",
+            "condition": "congestive heart failure, hypertension"
+        }
+    },
+    "medical_history": {
+        "chronic_pressure_ulcers": "bilateral ischial tuberosities (8/15/24)",
+        "hemiparesis": "left side, 1/20/23",
+        "ataxia": "1/20/23",
+        "subarachnoid_hemorrhage": "1/1/23",
+        "hypertension": "stage 1, 5/13/2005"
+    },
+    "mental_health": {
+        "status": "Charley's frustration over his physical limitations has impacted his mental state. He finds motivation in his ability to work remotely but feels challenged by his physical constraints. He is determined to improve his independence with the help of OT and PT."
+    },
+    "functional_status": {
+        "mobility": "Charley is bedfast and has very limited mobility. He requires assistance for position changes and can occasionally make small extremity changes. He relies on a walker for ambulation and his mother\u2019s assistance. He participates in biweekly PT and OT sessions to improve his functionality."
+    },
+    "appointments_and_support": {
+        "primary_caregivers": "Parents",
+        "healthcare_appointments": "PT, OT, and medical follow-ups",
+        "financial_hope": "Charley is hopeful that his new remote job will help financially, and he continues to attend all appointments despite challenges."
+    },
+    "surgical_history": {
+        "surgery": "Odontotomy (1995)"
+    },
+    "er_admission": {
+        "date": "Today",
+        "reason": "Suspected sepsis",
+        "NEWS": 5,
+        "pressure_ulcer_infection": "Pressure ulcer over left ischial tuberosity suspected as the source."
+    },
+    "labs_and_vitals": {
+        "complete_blood_count": {
+            "white_blood_cells": {
+                "result": 15000,
+                "normal_range": "4,100-10,900 cells/mm3"
+            },
+            "hemoglobin": {
+                "result": 13.2,
+                "normal_range": "12-15.2 g/dL"
+            },
+            "hematocrit": {
+                "result": 44,
+                "normal_range": "37-46 %"
+            },
+            "red_blood_cells": {
+                "result": 5.5,
+                "normal_range": "4.5-6.1 million/mcL"
+            },
+            "mean_corpuscular_volume": {
+                "result": 95,
+                "normal_range": "80-98 fL"
+            },
+            "mean_corpuscular_hemoglobin": {
+                "result": 30,
+                "normal_range": "28-32 pg"
+            },
+            "red_cell_distribution_width": {
+                "result": 13.5,
+                "normal_range": "33-36 g/dL"
+            },
+            "platelet_count": {
+                "result": 375000,
+                "normal_range": "9.0%-14.5%"
+            },
+            "mean_platelet_volume": {
+                "result": 8.8,
+                "normal_range": "150-350 x 10^9/L"
+            }
+        },
+        "comprehensive_metabolic_panel": {
+            "glucose": {
+                "result": 90,
+                "normal_range": "90-110 mg/dL"
+            },
+            "calcium": {
+                "result": 9.3,
+                "normal_range": "9-10.5 mg/dL"
+            },
+            "total_protein": {
+                "result": 7.1,
+                "normal_range": "5.5-9.0 g/dL"
+            },
+            "albumin": {
+                "result": 4.9,
+                "normal_range": "3.5-5.5 g/dL"
+            },
+            "sodium": {
+                "result": 142,
+                "normal_range": "135-145 mEq/L"
+            },
+            "potassium": {
+                "result": 4.0,
+                "normal_range": "3.5-4.5 mEq/L"
+            },
+            "chloride": {
+                "result": 99,
+                "normal_range": "95-105 mmol/L"
+            },
+            "bicarbonate": {
+                "result": 24.5,
+                "normal_range": "23-26 mEq/L"
+            },
+            "blood_urea_nitrogen": {
+                "result": 13,
+                "normal_range": "8-20 mg/dL"
+            },
+            "creatinine": {
+                "result": 1.1,
+                "normal_range": "0.8-1.3 mg/dL"
+            },
+            "alkaline_phosphatase": {
+                "result": 79,
+                "normal_range": "30-120 U/L"
+            },
+            "alanine_aminotransferase": {
+                "result": 26,
+                "normal_range": "10-40 U/L"
+            },
+            "aspartate_aminotransferase": {
+                "result": 25,
+                "normal_range": "10-40 U/L"
+            },
+            "total_bilirubin": {
+                "result": 0.6,
+                "normal_range": "0.3-1.0 mg/dL"
+            }
+        },
+        "urine_analysis": {
+            "urine_color": {
+                "result": "Clear, yellow",
+                "normal_range": "Clear, yellow"
+            },
+            "specific_gravity": {
+                "result": 1.025,
+                "normal_range": "1.005-1.035"
+            },
+            "pH": {
+                "result": 7.1,
+                "normal_range": "4.5-8.0"
+            },
+            "red_blood_cells": {
+                "result": 0.05,
+                "normal_range": "0-2/HPF"
+            },
+            "white_blood_cells": {
+                "result": 0,
+                "normal_range": "0-5/HPF"
+            }
+        },
+        "urine_culture": {
+            "result": "Pending",
+            "normal_range": "Negative"
+        },
+        "blood_culture": {
+            "result": "Pending",
+            "normal_range": "Negative"
+        }
+    },
+    "physicians_orders": {
+        "diet": "No restrictions, balanced diet",
+        "activity": "Bedfast",
+        "medications": {
+            "lisinopril": {
+                "dose": "10mg",
+                "route": "PO",
+                "schedule": "qAM, 0800"
+            },
+            "rivaroxaban": {
+                "dose": "10mg",
+                "route": "PO",
+                "schedule": "qAM, 0800"
+            },
+            "multivitamin": {
+                "dose": "1 tablet",
+                "route": "PO",
+                "schedule": "qAM, 0800"
+            },
+            "vancomycin": {
+                "dose": "15 mg/kg",
+                "route": "IV",
+                "schedule": "q12hr, 0900, 2100"
+            },
+            "cefepime": {
+                "dose": "2g",
+                "route": "IV",
+                "schedule": "q8hr, 0900, 1700, 0100"
+            },
+            "acetaminophen": {
+                "dose": "650mg",
+                "route": "IV",
+                "schedule": "PRN, q4hr"
+            },
+            "normal_saline_500mL": {
+                "dose": "500mL",
+                "route": "IV",
+                "schedule": "0900, 1700, 2100, 0100"
+            },
+            "normal_saline_250mL": {
+                "dose": "250mL",
+                "route": "IV",
+                "schedule": "PRN"
+            },
+            "docusate_sodium": {
+                "dose": "283mg/5mL",
+                "route": "PR",
+                "schedule": "PRN, q8hr"
+            }
+        }
+    },
+    "wound_and_skin": {
+        "sensory_perception": {
+            "ability_to_respond_meaningfully_to_pressure_related_discomfort": {
+                "result": "Very limited",
+                "description": "Responds only to painful stimuli. Cannot communicate discomfort except by moaning or restlessness, OR has a sensory impairment which limits the ability to feel pain or discomfort over \u00bd of body."
+            },
+            "moisture": {
+                "result": "Moist",
+                "description": "Skin is often but not always moist. Linen must be changed at least once a shift."
+            }
+        },
+        "activity": {
+            "degree_of_physical_activity": {
+                "result": "Bedfast",
+                "description": "Confined to bed."
+            }
+        },
+        "mobility": {
+            "ability_to_change_and_control_body_position": {
+                "result": "Very limited",
+                "description": "Makes occasional slight changes in body or extremity position but unable to make frequent or significant changes independently."
+            }
+        },
+        "nutrition": {
+            "usual_food_intake_pattern": {
+                "result": "Adequate",
+                "description": "Eats over half of most meals. Eats a total of 4 servings of protein (meat, dairy products) each day. Occasionally will refuse a meal, but will usually take a supplement of offered, OR is on a tube feeding or TPN regimen, which probably meets most of nutritional needs."
+            }
+        },
+        "friction_and_shear": {
+            "result": "Problem",
+            "description": "Requires moderate to maximum assistance in moving. Complete lifting without sliding against sheets is impossible. Frequent slides down in bed or chair, requiring frequent repositioning with maximum assistance. Spasticity, contractures, or agitation leads to almost constant friction."
+        }
+    }
+}

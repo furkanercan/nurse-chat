@@ -1,0 +1,296 @@
+{
+  "demographics": {
+    "name": "Edmond \u201cEd\u201d Martin",
+    "date_of_birth": "1/1/1961",
+    "sex": "Male",
+    "age": 64,
+    "height": "6\u20191\u201d",
+    "weight": "226 lbs.",
+    "race": "Caucasian",
+    "ethnicity": "Non-Hispanic",
+    "language": "English"
+  },
+  "social_background": {
+    "major_support": "Daughter & ex-wife",
+    "religion": "Christian",
+    "education": "GED, no further education",
+    "living_situation": "Lives alone",
+    "occupation": "Retired landscaper",
+    "tobacco_use": "Former smoker (30 pack-year history, quit 5 years ago)",
+    "alcohol_use": "Denies alcohol use",
+    "drug_use": "Denies drug use",
+    "income": "Fixed income with social security, roughly $2,200/month"
+  },
+  "family_history": {
+    "father": "Deceased at 72, complications related to DM, history of HTN & Obesity",
+    "mother": "Deceased at 69, CKD, history of HTN and stroke",
+    "brother": "Alive, 60, HTN and hyperlipidemia",
+    "daughter": "Alive, 40, healthy"
+  },
+  "medical_history": {
+    "past_medical_history": [
+      "Hypertension (HTN)",
+      "Type II Diabetes Mellitus (DM type II)",
+      "Hyperlipidemia",
+      "Obesity",
+      "Chronic Kidney Disease (CKD) stage 2"
+    ],
+    "health_perception": {
+      "financial_barriers": "Experiences financial strain; avoids routine blood sugar checks to conserve supplies",
+      "nutritional_barriers": "Limited access to nutrient-dense foods due to cost",
+      "trust_issues": "Slight distrust in healthcare system due to past perceived implicit bias"
+    }
+  },
+  "mental_health": {
+    "self_perception": "Extremely frustrated and appears to be 'giving up' due to loss of independence and expressive aphasia",
+    "coping": "ICU admission and stroke have been major stressors",
+    "value_belief": "Frequently references God; requests healing prayers from nurses",
+    "possible_cognitive_concern": "Ex-wife expressed concern over potential confusion"
+  },
+  "functional_status": {
+    "current_status": "Bedbound due to hemiplegia and fear of movement; often refuses to get up without Hoyer lift even with 2-person assist",
+    "activity": "Requires full assistance with positioning; unable to participate in PT due to weakness and hemiplegia",
+    "activity_orders": "Assist of 2, Hoyer lift; PT Evaluation"
+  },
+  "appointments_and_support": {
+    "support_phone": "Deb (Daughter) 234-567-8900",
+    "attending_provider": "Dr. Alkim Kurt"
+  },
+  "surgical_history": {
+    "procedures": [
+      "Received tPA upon admission (met criteria)"
+    ]
+  },
+  "er_admission": {
+    "reason": "Admitted to ICU 6 days ago after acute ischemic stroke (left MCA)",
+    "diagnosis": "Left MCA stroke resulting in hemiplegia, dysphagia, mild expressive aphasia"
+  },
+  "labs_and_vitals": {
+    "complete_blood_count": {
+      "white_blood_cells": {
+        "result": 11.1,
+        "unit": "cells/mm\u00b3",
+        "normal_range": "4,100\u201310,900",
+        "status": "High"
+      },
+      "hemoglobin": {
+        "result": 11.3,
+        "unit": "g/dL",
+        "normal_range": "12\u201315.2",
+        "status": "Low"
+      },
+      "hematocrit": {
+        "result": 34.7,
+        "unit": "%",
+        "normal_range": "37\u201346",
+        "status": "Low"
+      }
+    },
+    "chemistries": {
+      "sodium": {
+        "result": 132,
+        "unit": "mEq/L",
+        "normal_range": "135\u2013145",
+        "status": "Low"
+      },
+      "potassium": {
+        "result": 3.4,
+        "unit": "mEq/L",
+        "normal_range": "3.5\u20134.5",
+        "status": "Low"
+      },
+      "glucose": {
+        "result": 196,
+        "unit": "mg/dL",
+        "normal_range": "90\u2013110",
+        "status": "High"
+      }
+    },
+    "hemoglobin_a1c": {
+      "result": 8.9,
+      "unit": "%",
+      "normal_range": "<7% for known diabetes",
+      "status": "Poorly controlled",
+      "interpretation": "Value indicates suboptimal control of diabetes (A1C \u2265 7% for known diabetes)"
+    },
+    "protein_panel": {
+      "albumin": {
+        "result": 3.0,
+        "unit": "g/dL",
+        "normal_range": "3.5\u20135.0",
+        "status": "Low"
+      },
+      "prealbumin": {
+        "result": 11,
+        "unit": "mg/dL",
+        "normal_range": "16\u201335",
+        "status": "Low"
+      },
+      "total_protein": {
+        "result": 5.9,
+        "unit": "g/dL",
+        "normal_range": "6.4\u20138.3",
+        "status": "Low"
+      }
+    },
+    "urinalysis": {
+      "urine_color": {
+        "result": "Yellow",
+        "normal": "Clear, yellow",
+        "status": "Normal"
+      },
+      "specific_gravity": {
+        "result": 1.022,
+        "normal_range": "1.005\u20131.035",
+        "status": "Normal"
+      },
+      "pH": {
+        "result": 6.7,
+        "normal_range": "4.5\u20138.0",
+        "status": "Normal"
+      },
+      "red_blood_cells": {
+        "result": 0,
+        "unit": "/HPF",
+        "normal_range": "0\u20132",
+        "status": "Normal"
+      },
+      "white_blood_cells": {
+        "result": 0,
+        "unit": "/HPF",
+        "normal_range": "0\u20135",
+        "status": "Normal"
+      }
+    },
+    "urine_culture": {
+      "result": "Negative",
+      "normal": "Negative",
+      "status": "Normal"
+    }
+  },
+  "medications_and_treatment": {
+    "home_medications": [
+      "Lisinopril 20mg PO daily",
+      "Amlodipine 10mg PO daily",
+      "Glargine insulin 20 units SC at bedtime",
+      "Atorvastatin 80mg PO daily at bedtime"
+    ],
+    "new_medications": [
+      "Aspirin 81mg PO daily",
+      "Losartan 50mg PO daily",
+      "Apixaban 5mg PO twice a day",
+      "Docusate sodium 100mg PO twice a day",
+      "Pantoprazole 40mg IV daily (ulcer prevention)",
+      "Normal Saline 0.9% IV at 75mL/hour",
+      "Labetalol 10mg IV PRN for systolic BP > 180"
+    ],
+    "insulin_sliding_scale": {
+      "medication": "Humalog (insulin lispro)",
+      "administration": "Subcutaneous with meals",
+      "sliding_scale": [
+        {
+          "glucose_range": "150\u2013199",
+          "dose": "2 units"
+        },
+        {
+          "glucose_range": "200\u2013249",
+          "dose": "4 units"
+        },
+        {
+          "glucose_range": "250\u2013299",
+          "dose": "6 units"
+        },
+        {
+          "glucose_range": "300\u2013349",
+          "dose": "8 units"
+        },
+        {
+          "glucose_range": "\u2265 350",
+          "dose": "10 units and notify provider"
+        }
+      ]
+    }
+  },
+  "nutrition_and_gi": {
+    "objective": {
+      "inspection": "Symmetrical",
+      "auscultation": "Hypoactive",
+      "percussion": "WNL",
+      "palpation": "Non-tender, slightly distended",
+      "symptoms": "Experiencing constipation related to immobility",
+      "diet": "Regular, Minced and Moist with Thickened Liquids",
+      "needs": "Requiring high protein, calorie-dense meals"
+    },
+    "subjective": "Extremely dislikes the diet texture; often refuses meals and protein supplements"
+  },
+  "urinary_and_bowel": {
+    "objective": {
+      "urinary": "Uses bedside urinal with difficulty due to generalized weakness and use of nondominant hand only",
+      "bowel": "Continent, uses bedpan, at risk for constipation due to immobility"
+    },
+    "subjective": {
+      "urinary": "States he is continent, had no issues prior to hospitalization",
+      "bowel": "States regular bowel movements, denies GI issues",
+      "emotional": "Frustrated by lack of independence, embarrassed"
+    }
+  },
+  "sensory_and_sleep": {
+    "eyes": {
+      "objective": "Vision adequate, wears glasses",
+      "subjective": "Hasn't had eye exam in 5 years; concerned about diabetic retinopathy"
+    },
+    "ears": {
+      "objective": "Hearing adequate",
+      "subjective": "No concerns"
+    },
+    "sleep": {
+      "pattern": "Frequently disrupted in ICU due to alarms and staff",
+      "observation": "Frequent snoring reported"
+    }
+  },
+  "wound_and_skin": {
+    "braden_scale": {
+      "sensory_perception": {
+        "score": 3,
+        "description": "Slightly limited: Responds to verbal commands but cannot always communicate discomfort or need to be turned, OR has some sensory impairment which limits ability to feel pain or discomfort in 1 or 2 extremities."
+      },
+      "moisture": {
+        "score": 2,
+        "description": "Moist: Skin is often but not always moist. Linen must be changed at least once a shift."
+      },
+      "activity": {
+        "score": 1,
+        "description": "Bedfast: Confined to bed."
+      },
+      "mobility": {
+        "score": 2,
+        "description": "Very limited: Makes occasional slight changes in body or extremity position but unable to make frequent or significant changes independently."
+      },
+      "nutrition": {
+        "score": 1,
+        "description": "Very poor: Never eats a complete meal. Rarely eats more than \u2153 of any food offered. Eats 2 servings or less of protein per day. Takes fluids poorly. Does not take a dietary supplement."
+      },
+      "friction_and_shear": {
+        "score": 1,
+        "description": "Problem: Requires moderate to maximum assistance in moving. Frequent sliding, requires repositioning with max assistance. Spasticity or contractures lead to constant friction."
+      }
+    }
+  },
+  "allergies": [
+    "Penicillin"
+  ],
+  "immunizations": {
+    "covid": "Not up to date",
+    "flu": "Not up to date",
+    "pneumonia": "Not up to date"
+  },
+  "sexuality_reproductive": {
+    "objective": "No recent STI testing on file",
+    "subjective": "Not currently sexually active; last STI test 2 years ago, negative"
+  },
+  "roles_relationships": {
+    "daughter": "Visits when able; works as a nurse with long shifts",
+    "ex_wife": "Calls regularly but hasn't visited since ICU admission",
+    "brother": "Local but estranged"
+  }
+}
