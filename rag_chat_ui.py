@@ -22,7 +22,8 @@ if user_input:
 
     try:
         response = requests.post(
-            "http://localhost:8000/ask",
+            # "http://localhost:8000/ask",
+            "https://nursegame-chat-backend.onrender.com/ask",
             json={"question": user_input, "patient_id": patient_id},
             timeout=10
         )
